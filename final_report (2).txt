@@ -1,0 +1,18 @@
+
+CREDIT CARD FRAUD DETECTION REPORT
+
+Dataset: Kaggle Credit Card Fraud Dataset
+
+Models Used:
+1. Logistic Regression (Baseline)
+2. Random Forest (Ensemble Model)
+
+SMOTE applied to handle imbalance.
+
+Random Forest ROC-AUC Score: 0.9883537026925385
+
+Random Forest outperformed Logistic Regression.
+
+Feature Importance and Confusion Matrix saved.
+
+Model saved as saved_model.pkl
